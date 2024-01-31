@@ -1,7 +1,7 @@
 baseURL = 'https://windle.me.uk/'
 languageCode = 'en-gb'
 title = 'Sam Windle'
-theme = 'hugo-marmot'
+theme = 'hugo-marmot-swindle'
 
 
 [blackfriday]
