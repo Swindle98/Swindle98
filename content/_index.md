@@ -1,16 +1,22 @@
 # Who am I?
 
-I'm a PhD student, part of the Blanchard lab in the university of Nottingham's vet school. My project is part of the BBRSC DTP.
+**Hi I'm Sam...👋🏻**
 
-I study antibiotic resistance in Argentinian beef-lots. My research focuses using bioSinformatics to investigate the co-occurrence of  antibiotic resistance genes in the microbiome. I'm also interested in developing new techniques for meta-genomics surveillance technologies. 
+A PhD student, part of the Blanchard lab in the University of Nottingham's vet school. My project is part of the [Nottingham BBRSC DTP](https://www.nottingham.ac.uk/bbdtp/).
 
-I'm also a freelance audio technician, working in live music, worship and corporate settings, if your here looking for me in that capacity, you'll want to pop over to my other site [here](needurl).
+I'm also a freelance audio technician, with experiance in live music, worship and corporate settings, if your here looking for me in that capacity, [contact me](mailto:audio.sam@windle.me.uk).
 
-## Follow/Contact me
+When I'm not in the lab or behind a sound desk I enjoy training Bonsai, my springer spaniel; brewing speciality coffee, or just tinkering with my latest hyperfocus.
 
-I irregularly post to most of the social medias, you can also find some of the the more academic ways to follow me, or you can find my email address on [this page](/follow)
+## My Research
+I study antibiotic resistance in Argentinian beef-lots. My research focuses using bio-informatics to investigate the co-occurrence of  antibiotic resistance genes in the microbiome. I'm also interested in developing new techniques for meta-genomics surveillance technologies.
 
-## Updates
+## Follow me
 
-As I blog, publish, or present I'll post about them here. There will be a combined feed of my academic antics below, if you're looking for a particular type of update (publications/presentations/blog posts) there's buttons for that at the top of this page.
+I irregularly post to most of the social medias, If you want to follow me on social media, or some of the more academia specific ways, you can tap some of the buttons in the sidebar. ←
 
+## This site
+
+I built this site as a place for me to point others at when I'm at conferences and see a everything in oneplace. But it's also a place for me to share what I'm currently thinking about the world.
+
+This site was built with [hugo](), and uses a modified version of Will Fondrie's [marmot-theme](https://github.com/wfondrie/hugo-marmot/tree/main).
