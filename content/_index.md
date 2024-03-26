@@ -6,6 +6,8 @@ A PhD student, part of the Blanchard lab in the University of Nottingham's vet s
 
 I'm also a freelance audio technician, with experiance in live music, worship and corporate settings, if your here looking for me in that capacity, [Click here to email me](mailto:audio.sam@windle.me.uk).
 
+{{% button "CV" "cv/" %}} 
+
 When I'm not in the lab or behind a sound desk I enjoy training Bonsai, my springer spaniel; brewing speciality coffee, or just tinkering with my latest hyperfocus.
 
 ## My Research
