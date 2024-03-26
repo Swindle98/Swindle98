@@ -4,7 +4,7 @@
 
 A PhD student, part of the Blanchard lab in the University of Nottingham's vet school. My project is part of the [Nottingham BBRSC DTP](https://www.nottingham.ac.uk/bbdtp/).
 
-I'm also a freelance audio technician, with experiance in live music, worship and corporate settings, if your here looking for me in that capacity, [contact me](mailto:audio.sam@windle.me.uk).
+I'm also a freelance audio technician, with experiance in live music, worship and corporate settings, if your here looking for me in that capacity, [Click here to email me](mailto:audio.sam@windle.me.uk).
 
 When I'm not in the lab or behind a sound desk I enjoy training Bonsai, my springer spaniel; brewing speciality coffee, or just tinkering with my latest hyperfocus.
 
@@ -17,6 +17,6 @@ I irregularly post to most of the social medias, If you want to follow me on soc
 
 ## This site
 
-I built this site as a place for me to point others at when I'm at conferences and see a everything in oneplace. But it's also a place for me to share what I'm currently thinking about the world.
+I built this site as a place for me to point others at when I'm at conferences and see a everything in one place. But it's also a place for me to share what I'm currently thinking about the world.
 
 This site was built with [hugo](), and uses a modified version of Will Fondrie's [marmot-theme](https://github.com/wfondrie/hugo-marmot/tree/main).
