@@ -11,6 +11,7 @@ I'm also a freelance audio technician, with experiance in live music, worship an
 When I'm not in the lab or behind a sound desk I enjoy training Bonsai, my springer spaniel; brewing speciality coffee, or just tinkering with my latest hyperfocus.
 
 ## My Research
+
 I study antibiotic resistance in Argentinian beef-lots. My research focuses using bioinformatics to investigate the co-occurrence of  antibiotic resistance genes in the microbiome. I'm also interested in developing new techniques for meta-genomics surveillance technologies.
 
 ## Follow me

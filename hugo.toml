@@ -12,7 +12,7 @@ theme = 'hugo-marmot-swindle'
 
 [params]
   name = "Sam Windle"
-  description = "Postgraduate Researcher | Uni of Notts | AMR | Bioinformatics"
+  description = "PhD student | Uni of Notts | AMR | Bioinformatics | Machine Learning"
   footer = """\
     &copy; [Sam Windle](https://windle.me.uk) 2024--{Year}\
     """

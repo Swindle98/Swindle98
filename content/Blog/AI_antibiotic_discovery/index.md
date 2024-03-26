@@ -1,8 +1,12 @@
 +++
 title = 'AI antibiotic discovery'
-date = 2024-01-26T15:24:44Z
-draft = true
+date = 2020-04-04T15:24:44Z
+author = 'Sam Windle'
+draft = false
 +++
+
+>Note:
+>This is an old post that I had to do for an undergrad project, I want to leave it here as something to compare my newer work to. Enjoy!
 
 Antibiotic discovery could be one of the greatest medical paradoxes of modern times. It is increasingly difficult to discover new antibiotics, with market forces being a major factor slowing development. It takes decades and costs billions to develop new antibiotics, the announcement of a new antibiotic is often accompanied by a drop in stock value, with the developers often <a href="https://www.wired.com/story/the-antibiotics-business-is-broken-but-theres-a-fix/" target="_blank" rel="noreferrer noopener">going out of business</a>. Not the celebratory fanfare you would expect for new products saving humanities future. The more exposure germs get to the antibiotics the more likely they are to acquire resistance to the antibiotic. This leads health officials to hold back the use of new antibiotics for the worst of cases, where current antibiotics are no longer effective. Spending all this money to let it sit on a shelf for years, isn’t the most attractive opportunity for investors. Drug companies could have spent their money developing a new treatment for diabetes, the patients are often wealthy and it’s a chronic illness so the company gets a large stable income for decades. Compare that to antibiotics which are often required in undeveloped nations, and treatment may only be for a couple of weeks, producing only small amounts of random income. It starts to become rather clear why investors aren’t interested in antibiotics.</p>
 <!-- /wp:paragraph -->

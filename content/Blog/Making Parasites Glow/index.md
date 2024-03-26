@@ -4,7 +4,8 @@ date = 2020-04-02T14:53:03Z
 draft = false
 +++
 
-*This is one of the blog post from my old blog that I did as part of a module in my undergrad, I've transfered it to my new site.*
+>Note:
+>This is an old post that I had to do for an undergrad project, I want to leave it here as something to compare my newer work to. Enjoy!
 
 For the 4th year of my MSci I’m working in the [Tewari lab](https://tewarilab.co.uk/home). A lab that specialises in understanding specific proteins, their roles and locations in Plasmodium, the group of parasites that causes malaria. One of the most useful tools used is fluorescent microscopy. The protein we are interested in is tagged with a fluorescent label, then viewed under a microscope. When excited by the microscope the tag, attached to our protein glows, allowing clear visualisation of the protein. If we also tag known proteins (in a different colour) we can deduce the location of our proteins. We can then compare locations and begin to speculate interactions and roles for our protein of interest. The entire process, while it may be routine for many cellular biologists, is surprisingly complex, involving gene editing, cloning, and requires multiple different organisms, taking up to two weeks to complete.
 
