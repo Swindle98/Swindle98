@@ -3,7 +3,7 @@
 
 {{ .Content }}
 
-<h2>Posts</h2>
+<h2>Recent Posts</h2>
 <div class="posts-group">
 	<ul class="posts-list">
     {{- range ( where site.RegularPages "Section" "post" | first 5 ) }}

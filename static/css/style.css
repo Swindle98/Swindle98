@@ -21,7 +21,6 @@ h1, h2, h3 {
     color: var(--accent-color);
     word-break: normal;
     font-weight: 500;
-    font-size: 200%;
 
 }
 
@@ -35,7 +34,6 @@ body {
     word-break: normal;
     font-weight: 400;
     line-height: 1.4;
-    font-size: 110%;
 }
 
 ul {

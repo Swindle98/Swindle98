@@ -69,4 +69,3 @@ theme = 'hugo-marmot-swindle'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-

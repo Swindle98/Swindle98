@@ -1,9 +1,8 @@
 :root {
-    --dark-color: #1e1e2e;
-    --light-color: #cdd6f4;
-    --accent-color: #f9e2af;
-    --bg-color: #1e1e2e;
-    --bold-color: #a6e3a1;
+    --dark-color: #000000;
+    --light-color: #EEEEEE;
+    --accent-color: #24B8A0;
+    --bg-color: #1d1f21;
 }
 
 * {
@@ -38,6 +37,11 @@ body {
 
 ul {
     list-style: "-> "
+}
+
+blockquote {
+    border-left: 2px solid var(--accent-color);
+    padding-left: 16px;
 }
 
 table {
@@ -99,11 +103,11 @@ hr {
 
 a {
     text-decoration: none;
-    color: var(--bold-color);
+    color: var(--accent-color);
 }
 
 strong {
-    color: var(--bold-color);
+    color: var(--accent-color);
 }
 
 a:hover,
@@ -124,6 +128,7 @@ img {
 }
 
 div.avatar img {
+    filter: grayscale(1);
     border-radius: 50%;
     display: none;
 }
