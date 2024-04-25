@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Windle</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sam Windle</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 04 Apr 2020 15:24:44 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI antibiotic discovery</title>
+      <link>http://localhost:1313/04/2020/ai-antibiotic-discovery/</link>
+      <pubDate>Sat, 04 Apr 2020 15:24:44 +0000</pubDate>
+      <guid>http://localhost:1313/04/2020/ai-antibiotic-discovery/</guid>
+      <description>Note: This is an old post that I had to do for an undergrad project, I want to leave it here as something to compare my newer work to. Enjoy!&#xA;Antibiotic discovery could be one of the greatest medical paradoxes of modern times. It is increasingly difficult to discover new antibiotics, with market forces being a major factor slowing development. It takes decades and costs billions to develop new antibiotics, the announcement of a new antibiotic is often accompanied by a drop in stock value, with the developers often going out of business.</description>
+    </item>
+    <item>
+      <title>Making Parasites Glow</title>
+      <link>http://localhost:1313/04/2020/making-parasites-glow/</link>
+      <pubDate>Thu, 02 Apr 2020 14:53:03 +0000</pubDate>
+      <guid>http://localhost:1313/04/2020/making-parasites-glow/</guid>
+      <description>Note: This is an old post that I had to do for an undergrad project, I want to leave it here as something to compare my newer work to. Enjoy!&#xA;For the 4th year of my MSci I’m working in the Tewari lab. A lab that specialises in understanding specific proteins, their roles and locations in Plasmodium, the group of parasites that causes malaria. One of the most useful tools used is fluorescent microscopy.</description>
+    </item>
+  </channel>
+</rss>
