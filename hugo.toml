@@ -4,8 +4,6 @@ title = 'Sam Windle'
 theme = 'hugo-marmot-swindle'
 
 
-[blackfriday]
-  hrefTargetBlank = true
 
 [permalinks]
   post = "/:month/:year/:title/"
