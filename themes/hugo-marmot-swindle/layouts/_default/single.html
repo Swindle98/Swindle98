@@ -1,4 +1,4 @@
-{{ partialCached "header.html" . }}
+{{ partial "header.html" . }}
 <div class="article-meta">
 <h1><span class="title">{{ .Title | markdownify }}</span></h1>
 </div>
@@ -7,4 +7,4 @@
 {{ .Content }}
 </main>
 
-{{ partialCached "footer.html" . }}
+{{ partial "footer.html" . }}

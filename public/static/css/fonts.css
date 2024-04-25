@@ -1,8 +1,0 @@
-/* CSS */
-@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@600&display=swap');
-/* Specify in CSS */
-html { font-family: 'Vollkorn', serif; }
-
-@supports (font-variation-settings: normal) {
-  html { font-family: 'Vollkorn', serif; }
-}
