@@ -2,6 +2,8 @@
 
 <h1>{{ .Title | markdownify }}</h1>
 
+{{ .Content }}
+
 {{- range .Data.Pages.GroupByDate "2006" }}
 <div class="posts-group">
 	<div class="post-year" id="{{ .Key }}">{{ .Key }}</div>
