@@ -1,10 +1,9 @@
-﻿
+
 +++
 url = 'cv'
 +++
 
-
-# SAMUEL JAMES WINDLE
+# SAM WINDLE
 
  [sam@windle.me.uk](sam@windle.me.uk) · School of Veterinary Medicine and Science, University of Nottingham
 
@@ -12,7 +11,7 @@ url = 'cv'
 
 ## Research Interests
 
-- I'm excited and motivated to produce tools and solutions to biological questions. Making the most of my wide bioloigical background, engineerig mindset and technological curiosity.
+- I'm excited and motivated to produce tools and solutions to biological questions. Making the most of my wide bioloigical background, engineering mindset and technological curiosity.
 - Currently I'm applying this across the fields of microbiology, antibiotic resistance and sequencinge technologies. Previously this has taken me to pathogens and parasitology and I look forward to where it could take me in the future...
 
 ---
