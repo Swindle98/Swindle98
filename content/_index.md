@@ -1,6 +1,6 @@
 # Who am I?
 
-**Hi I'm Sam...👋🏻**
+**Hi I'm Sammie...👋🏻**
 
 A PhD student, part of the Blanchard lab in the University of Nottingham's vet school. My project is part of the [Nottingham BBRSC DTP](https://www.nottingham.ac.uk/bbdtp/).
 

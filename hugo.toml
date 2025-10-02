@@ -11,7 +11,7 @@ theme = 'hugo-marmot-swindle'
   post = "/:month/:year/:title/"
 
 [params]
-  name = "Sam Windle"
+  name = "Samantha Windle"
   description = "PhD student | Uni of Notts | AMR | Bioinformatics | Machine Learning"
   footer = """\
     &copy; [Sam Windle](https://windle.me.uk) 2024--{Year}\
