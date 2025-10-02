@@ -3,7 +3,9 @@ languageCode = 'en-gb'
 title = 'Sam Windle'
 theme = 'hugo-marmot-swindle'
 
-
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [permalinks]
   post = "/:month/:year/:title/"
