@@ -3,9 +3,9 @@
 url = 'cv'
 +++
 
-# SAM WINDLE
+# SAMANTHA JOY WINDLE
 
- [sam@windle.me.uk](sam@windle.me.uk) · School of Veterinary Medicine and Science, University of Nottingham
+ [science.sam@windle.me.uk](sam@windle.me.uk) · School of Veterinary Medicine and Science, University of Nottingham
 
 ---
 
