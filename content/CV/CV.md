@@ -28,7 +28,7 @@ Univeristy of Nottingham
 
 Relevant completed module titles include:
 
-*Cutting edge Technologies and ideas in Molecular biology; Process and practice in Science; bioinformatic Analysis of global molecular data; Research planning and preparation; Advanced human genetics; Ageing, Sex and DNA repair; Genotype to phenotype and back again; Genome and human disease; Bacterial genes and development; and Pathogens.*
+*Cutting edge technologies and ideas in molecular biology; Process and practice in Science; Bioinformatic Analysis of global molecular data; Research planning and preparation; Advanced human genetics; Ageing, sex and DNA repair; Genotype to phenotype and back again; Genome and human disease; Bacterial genes and development; and Pathogens.*
 
 ---
 
